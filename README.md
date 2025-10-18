@@ -19,6 +19,9 @@
   <a href="mailto:ashishparida068@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="ashishparida068@gmail.com" height="30" width="40" />
   </a>
+  <a href="https://github.com/ashish78566" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
